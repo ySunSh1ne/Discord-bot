@@ -97,6 +97,3 @@ Certifique-se de que você tenha o seguinte instalado em seu sistema:
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Biblioteca para buscar e reproduzir músicas do YouTube.
 - [FFmpeg](https://ffmpeg.org/) - Ferramenta para processamento de áudio e vídeo.
 
-Se você tiver dúvidas ou problemas, entre em contato!
-
-``` 
